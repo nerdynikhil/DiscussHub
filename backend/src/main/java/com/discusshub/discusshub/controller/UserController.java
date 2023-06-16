@@ -1,7 +1,7 @@
-package com.yourcompany.discusshub.controller;
+package com.discusshub.discusshub.controller;
 
-import com.yourcompany.discusshub.model.User;
-import com.yourcompany.discusshub.service.UserService;
+import com.discusshub.discusshub.model.User;
+import com.discusshub.discusshub.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

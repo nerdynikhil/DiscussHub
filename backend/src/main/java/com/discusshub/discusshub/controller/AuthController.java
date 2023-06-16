@@ -1,7 +1,7 @@
-package com.yourcompany.discusshub.controller;
+package com.discusshub.discusshub.controller;
 
-import com.yourcompany.discusshub.model.AuthenticationRequest;
-import com.yourcompany.discusshub.service.AuthService;
+import com.discusshub.discusshub.model.AuthenticationRequest;
+import com.discusshub.discusshub.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
