@@ -1,2 +1,3 @@
 # DiscussHub
  
+DiscussHub is an online platform built with Spring Boot and React that enables users to participate in group discussions and enhance their communication skills. It provides a user-friendly interface for users to sign up, join group discussions on various topics, receive feedback from judges, and improve their debating abilities. The platform integrates video conferencing capabilities and features a comprehensive feedback system.
